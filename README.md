@@ -1,5 +1,5 @@
 This contains the APPENDIX of the paper:
 Nomenclature,
-A. 1: PMSG-based wind turbine state space modelling,
-A.2: Aggregated Wind Farm State-Space Model,
+A.1: PMSG-based wind turbine state space modelling,
+**A.2**: Aggregated Wind Farm State-Space Model,
 B: Parameters of the model.
